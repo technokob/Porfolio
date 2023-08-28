@@ -62,7 +62,6 @@ li a {
 .active {
     color: var(--dark);
     background-color: var(--green);
-
 }
 
 .presentation {
@@ -80,4 +79,12 @@ li a {
 
     background-color: var(--dark);
     color: var(--green);
+}
+
+.profile_img {
+
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+
 }
